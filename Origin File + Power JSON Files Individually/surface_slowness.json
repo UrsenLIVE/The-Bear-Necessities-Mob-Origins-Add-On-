@@ -1,0 +1,16 @@
+{
+  "name": "Heavy Pelt",
+    "description": "Your fur weighs you down, making you slow on land.",
+  "type": "origins:conditioned_attribute",
+  "modifier": {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_total",
+    "value": -0.4,
+    "name": "bear land slowness"
+  },
+  "condition": {
+    "type": "origins:submerged_in",
+    "inverted": true,
+    "fluid": "minecraft:water"
+  }
+}

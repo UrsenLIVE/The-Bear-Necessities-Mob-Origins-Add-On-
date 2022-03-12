@@ -1,0 +1,11 @@
+{
+	"name": "Natural Armor",
+    "description": "Even though you are slower, the thick fur you have makes you healthier than the normal human.", 
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 6,
+        "operation": "addition"
+    }
+}

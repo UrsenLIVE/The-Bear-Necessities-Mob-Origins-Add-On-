@@ -1,0 +1,10 @@
+{
+	"name": "Rough Hands",
+    "description": "Your big paws and claws make it so you can dig and harvest through dirt and even stone.",
+  "type": "origins:modify_harvest",
+  "allow": true,
+  "block_condition": {
+    "type": "origins:in_tag",
+    "tag": "origins:natural_stone"
+  }
+}
