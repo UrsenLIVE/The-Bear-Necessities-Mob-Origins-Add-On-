@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "moborigins:bear_claws",
+    "moborigins:surface_slowness",
+	"moborigins:bear_swim_speed",
+    "moborigins:thick_fur",
+	"moborigins:massive",
+  ],
+  "icon": "minecraft:salmon",
+  "order": 4,
+  "impact": 1
+}
