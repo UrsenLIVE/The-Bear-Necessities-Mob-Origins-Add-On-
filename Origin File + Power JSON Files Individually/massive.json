@@ -1,0 +1,6 @@
+{
+    "name": "Big Man",
+    "description": "YOU'RE HUGE! your Ursine blood makes you 3 blocks tall",
+    "type": "extraorigins:modify_size",
+    "scale": 1.5
+}
